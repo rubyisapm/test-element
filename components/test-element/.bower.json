@@ -1,0 +1,37 @@
+{
+  "name": "test-element",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "test"
+  ],
+  "main": "test-element.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/<USERNAME>/test-element/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  },
+  "_release": "eef3846e91",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "eef3846e9173296f18013a7ab1056673ce256b25"
+  },
+  "_source": "git://github.com/rubyisapm/test-element.git",
+  "_target": "master",
+  "_originalSource": "rubyisapm/test-element",
+  "_direct": true
+}
